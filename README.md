@@ -52,7 +52,7 @@ converted.save("output.wav");
 
 ## File Structure
 - `wavlib.h`: The main header file containing all functionality.
-- `test.cpp`: Example usage and testing code (not included by default).
+- `test.cpp`: Example usage and testing code.
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for more details.
